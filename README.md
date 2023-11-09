@@ -1,6 +1,7 @@
 
 <p align="center">
-![image](https://github.com/OnurKorkmaz1/OnurKorkmaz1/assets/99838759/06a92bc1-ec76-4270-a8f7-15d4e8e6ff34)
+![Image](https://wallpaperaccess.com/full/6109451.jpg)
+  
 <h1 align="center">Hi 👋, I'm Onur</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 
