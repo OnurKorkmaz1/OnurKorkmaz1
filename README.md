@@ -1,7 +1,8 @@
 
 <p align="center">
 ![Image](https://wallpaperaccess.com/full/6109451.jpg)
-  
+</p>
+
 <h1 align="center">Hi 👋, I'm Onur</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 
