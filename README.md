@@ -1,3 +1,8 @@
+
+<p align="center">
+    
+![Image](https://www.dataquest.io/wp-content/uploads/2019/05/what-is-data-science-1.jpg)
+
 <h1 align="center">Hi 👋, I'm Onur</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 
