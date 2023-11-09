@@ -1,6 +1,7 @@
 
 <p align="center">
-![Image](https://wallpaperaccess.com/full/6109451.jpg)
+[![Image](https://wallpaperaccess.com/full/6109451.jpg)](https://wallpaperaccess.com/full/6109385.jpg)
+
 </p>
 
 <h1 align="center">Hi 👋, I'm Onur</h1>
