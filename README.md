@@ -1,7 +1,6 @@
 
 <p align="center">
-![Image](https://wallpaperaccess.com/full/6109451.jpg)
-
+![Image]([https://wallpaperaccess.com/full/6109451.jpg](https://www.pxfuel.com/tr/desktop-wallpaper-dzpox))
 </p>
 
 <h1 align="center">Hi 👋, I'm Onur</h1>
