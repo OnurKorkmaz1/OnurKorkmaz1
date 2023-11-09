@@ -1,6 +1,6 @@
 
 <p align="center">
-[![Image](https://wallpaperaccess.com/full/6109451.jpg)](https://wallpaperaccess.com/full/6109385.jpg)
+[![Image](https://wallpaperaccess.com/full/6109451.jpg)]
 
 </p>
 
