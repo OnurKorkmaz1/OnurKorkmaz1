@@ -1,7 +1,7 @@
 
 <p align="center">
 
-![alt text]([http://url/to/img.png](https://wallpaperaccess.com/full/6109385.jpg)
+![alt text](https://wallpaperaccess.com/full/6109385.jpg)
 </p>
 
 <h1 align="center">Hi 👋, I'm Onur</h1>
