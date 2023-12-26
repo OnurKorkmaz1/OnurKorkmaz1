@@ -1,12 +1,8 @@
 
-<p align="center">
-
-![alt text](https://wallpaperaccess.com/full/6109385.jpg)
-</p>
-
 <h1 align="center">Hi 👋, I'm Onur</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 
+<img align="right" alt="Coding" width="400" src="https://wallpaperaccess.com/full/6109385.jpg">
 - 🌱 I’m currently learning **ML and AI**
 
 - 📝 I regularly write articles on [https://www.korkmazonur.com/](https://www.korkmazonur.com/)
