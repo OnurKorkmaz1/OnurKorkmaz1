@@ -2,7 +2,7 @@
 ![MasterHead](https://godigitallaagencia.com/wp-content/uploads/2020/06/web-developer.gif)
 <h1 align="center">Hi 👋, I'm Onur</h1>
 <h3 align="center">A BIM Software Developer from Turkey</h3>
-<img align="right" src="https://cdn.dribbble.com/users/4920152/screenshots/15473655/media/59f15875c47d355bc0b1661a51214adc.gif" width="360" height="270" alt="main_image" />
+<img align="right" src="https://www.mydral.com/wp-content/uploads/2020/04/datascience.gif" width="360" height="270" alt="main_image" />
 
 
 
