@@ -2,8 +2,8 @@
 ![MasterHead](https://godigitallaagencia.com/wp-content/uploads/2020/06/web-developer.gif)
 <h1 align="center">Hi 👋, I'm Onur</h1>
 <h3 align="center">A BIM Software Developer from Turkey</h3>
-<img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="360" height="270" alt="main_image" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashtygi&label=Profile%20views&color=0e75b6&style=flat" alt="yashtygi" /> </p>
+<img align="right" src="https://cdn.dribbble.com/users/4920152/screenshots/15473655/media/59f15875c47d355bc0b1661a51214adc.gif" width="360" height="270" alt="main_image" />
+
 
 
 - 🌱 I’m currently learning **IFC.JS and Three.JS**
