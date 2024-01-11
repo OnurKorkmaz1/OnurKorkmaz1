@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **IFC.JS and Three.JS**
 
-- 📝 I regularly write articles on [Hashnode](https://www.korkmazonur.com/)
+- 📝 I regularly write articles on [Blog](https://www.korkmazonur.com/)
 
 - 💬 Ask me about **BIM**
 
@@ -34,4 +34,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onurkorkmaz1&show_icons=true&locale=en" alt="onurkorkmaz1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onurkorkmaz1&" alt="onurkorkmaz1" /></p>
+
