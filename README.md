@@ -4,8 +4,6 @@
 <h3 align="center">A BIM Software Developer from Turkey</h3>
 <img align="right" src="https://www.mydral.com/wp-content/uploads/2020/04/datascience.gif" width="360" height="270" alt="main_image" />
 
-
-
 - 🌱 I’m currently learning **IFC.JS and Three.JS**
 
 - 📝 I regularly write articles on [Blog](https://www.korkmazonur.com/)
