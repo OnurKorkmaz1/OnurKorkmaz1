@@ -36,8 +36,32 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=onurkorkmaz1&show_icons=true&locale=en&layout=compact" alt="onurkorkmaz1" /></p>
+<!--Github stats Table--> 
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onurkorkmaz1&show_icons=true&locale=en" alt="onurkorkmaz1" /></p>
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/OnurKorkmaz1">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=OnurKorkmaz1&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/OnurKorkmaz1">
+          <img align="center" src="https://streak-stats.demolab.com?user=OnurKorkmaz1&theme=nightowl" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+
+</table>
+<br />
+
+
 
 
