@@ -1,9 +1,11 @@
 
-![MasterHead](https://godigitallaagencia.com/wp-content/uploads/2020/06/web-developer.gif)
-<h1 align="center">Hi 👋, I'm Onur</h1>
-<h3 align="center">A BIM Software Developer from Turkey</h3>
-<img align="right" src="https://www.mydral.com/wp-content/uploads/2020/04/datascience.gif" width="360" height="270" alt="main_image" />
 
+![MasterHead](https://godigitallaagencia.com/wp-content/uploads/2020/06/web-developer.gif)
+<!--Header Name-->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm ONUR! 
+*BIM Software Developer*
+<br /> 
+<img align="right" src="https://www.mydral.com/wp-content/uploads/2020/04/datascience.gif" width="360" height="270" alt="main_image" />
 
 <!--Start Intro-->               
 <p align="left">I am a BIM Software Developer and Machine Learning Enthusiast with a huge love for Python and Data Visualization. </p>
