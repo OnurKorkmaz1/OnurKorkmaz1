@@ -4,14 +4,14 @@
 <h3 align="center">A BIM Software Developer from Turkey</h3>
 <img align="right" src="https://www.mydral.com/wp-content/uploads/2020/04/datascience.gif" width="360" height="270" alt="main_image" />
 
+
+<!--Start Intro-->               
+<p align="left">I am a BIM Software Developer and Machine Learning Enthusiast with a huge love for Python and Data Visualization. </p>
+
 - 🌱 I’m currently learning **IFC.JS and Three.JS**
-
-- 📝 I regularly write articles on [Blog](https://www.korkmazonur.com/)
-
+- ✍ I write technical blogs, You can visit my blog site at [DEV]((https://www.korkmazonur.com/)).
 - 💬 Ask me about **BIM**
-
 - 📫 How to reach me **krkmaz.onur@gmail.com**
-
 - 📄 Know about my experiences [Resume](https://www.korkmazonur.com/)
 
 
