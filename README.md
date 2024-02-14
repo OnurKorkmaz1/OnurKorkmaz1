@@ -37,6 +37,13 @@
 </p>
 <br />
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img width="500px"  src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,html,css,visualstudio,sqlite,mysql,js,vscode,cs,threejs,react,sklearn,linux&perline=10"  />
+  </a>
+</p>
+
+
 
 
 <!--Github stats Table--> 
