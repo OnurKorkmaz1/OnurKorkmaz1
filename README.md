@@ -15,7 +15,7 @@
 - ✍ I write technical blogs, You can visit my blog site at [DEV]((https://www.korkmazonur.com/)).
 - 💬 Ask me about **BIM**
 - 📫 How to reach me **krkmaz.onur@gmail.com**
-- 📄 Know about my experiences [Resume](https://www.korkmazonur.com/)
+- 📄 Know about my experiences [Resume](https://www.korkmazonur.com/about-1)
 
 
 <h3 align="left">Connect with me:</h3>
