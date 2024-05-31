@@ -2,7 +2,7 @@
 
 ![MasterHead](https://godigitallaagencia.com/wp-content/uploads/2020/06/web-developer.gif)
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm ONUR! 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi I'm ONUR! 
 *BIM Software Developer*
 <br /> 
 <img align="right" src="https://www.mydral.com/wp-content/uploads/2020/04/datascience.gif" width="360" height="270" alt="main_image" />
@@ -13,7 +13,7 @@
 - ✫ I have a big interest in Python for Revit API.
 - 🌱 I’m currently learning **IFC.JS and Three.JS**
 - ✍ I write technical blogs, You can visit my blog site at [DEV]((https://www.korkmazonur.com/)).
-- 🔗 Looking to collaborate on AEC tech world projects.
+- 🔗 I'm seeking for opportunities to work with others on innovative projects that improve productivity in the AEC sector.
 - 💬 Ask me about **BIM**
 - 📫 How to reach me **krkmaz.onur@gmail.com**
 - 📄 Know about my experiences [Resume](https://www.korkmazonur.com/about-1)
