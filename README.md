@@ -4,7 +4,6 @@
 <!--Header Name-->
 *BIM Software Developer*
 <br /> 
-<img align="right" src="https://www.mydral.com/wp-content/uploads/2020/04/datascience.gif" width="360" height="270" alt="main_image" />
 
 <!--Start Intro-->               
 <p align="left">I am a BIM Software Developer and Machine Learning Enthusiast with a huge love for Python and Data Visualization. </p>
