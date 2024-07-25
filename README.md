@@ -1,5 +1,5 @@
 
-![Image Alt text](Onur Korkmaz.png)
+![Image Alt text](OnurKorkmaz.png)
 
 <!--Header Name-->
 *BIM Software Developer*
