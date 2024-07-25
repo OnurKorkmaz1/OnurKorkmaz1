@@ -2,7 +2,6 @@
 ![Image Alt text](header.png)
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi I'm ONUR! 
 *BIM Software Developer*
 <br /> 
 <img align="right" src="https://www.mydral.com/wp-content/uploads/2020/04/datascience.gif" width="360" height="270" alt="main_image" />
