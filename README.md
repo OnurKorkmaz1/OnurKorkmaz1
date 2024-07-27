@@ -2,7 +2,7 @@
 ![Image Alt text](OnurKorkmaz.png)
 
 <!--Start Intro-->
-### About Me:
+## About Me:
 As a BIM Software Developer, I am dedicated to developing tools and solutions that improve productivity and eliminate errors in project workflows. My experience and knowledge allow me to make a substantial contribution to any project team, and I am passionate about using technology to better the construction industry.
 
 - ✫ I have a big interest in Python for Revit API.
@@ -13,20 +13,20 @@ As a BIM Software Developer, I am dedicated to developing tools and solutions th
 
 
 
-### 🔗 Connect with me:
+## 🔗 Connect with me:
 <!-- style=flat-square& -->
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white=mailto:krkmaz.onur@gmail.com)](mailto:krkmaz.onur@gmail.com)
 [![WEBSITE](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://onurkorkmaz.framer.website/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/korkmazonur1/)](https://www.linkedin.com/in/korkmazonur1/)
 
-### 👩🏻‍🏫 I'm Currently Learning
+## 👩🏻‍🏫 I'm Currently Learning
 
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
-### < > Programming Languages
+## < > Programming Languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -34,7 +34,7 @@ As a BIM Software Developer, I am dedicated to developing tools and solutions th
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-### 🗃 Databases
+## 🗃 Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
