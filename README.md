@@ -10,9 +10,6 @@ As a BIM Software Developer, I am dedicated to developing tools and solutions th
 - ✍ I write technical blogs, You can visit my blog site at [DEV]((https://www.korkmazonur.com/)).
 - 🔗 I'm seeking for opportunities to work with others on innovative projects that improve productivity in the AEC sector.
 - 💬 Ask me about **BIM**
-- 📫 How to reach me **krkmaz.onur@gmail.com**
-- 📄 Know about my experiences [Resume](https://www.korkmazonur.com/about-1)
-
 
 
 - - - 
