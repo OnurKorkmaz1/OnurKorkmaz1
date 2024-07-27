@@ -31,16 +31,21 @@ As a BIM Developer, I am dedicated to developing tools and solutions that improv
 
 - - - 
 
-<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+### 🔗 Connect with me:
+<!-- style=flat-square& -->
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krkmaz.onur@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Mohammad%20Shakib-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/korkmazonur1/)](https://www.linkedin.com/in/korkmazonur1/)
+[![Discord](https://img.shields.io/badge/-Shakib-40567A?logo=Discord&logoColor=white&link=https://discordapp.com/users/moshakib/)](https://discordapp.com/users/732774519802036294)
 
-#### 👩🏻‍🏫 I'm Currently Learning
+
+### 👩🏻‍🏫 I'm Currently Learning
 
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
-#### < > Programming Languages
+### < > Programming Languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -48,7 +53,7 @@ As a BIM Developer, I am dedicated to developing tools and solutions that improv
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-#### 🗃 Databases
+### 🗃 Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -59,7 +64,7 @@ As a BIM Developer, I am dedicated to developing tools and solutions that improv
 
 
 
-#### 📰 My Latest Projects
+### 📰 My Latest Projects
 
 <!-- BLOG-POST-LIST:START -->
 - [Revit: Web View Browser](https://onurkorkmaz.framer.website/projects/revit-web-view-browser)
