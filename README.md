@@ -33,8 +33,9 @@ As a BIM Developer, I am dedicated to developing tools and solutions that improv
 
 ### 🔗 Connect with me:
 <!-- style=flat-square& -->
-![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(krkmaz.onur@gmail.com)
-
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?logo=Gmail&logoColor=white&link=mailto:krkmaz.onur@gmail.com)](mailto:krkmaz.onur@gmail.com)
+[![WEBSITE](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/korkmazonur1/)](https://www.linkedin.com/in/korkmazonur1/)
 
 ### 👩🏻‍🏫 I'm Currently Learning
 
