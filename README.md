@@ -13,7 +13,7 @@
 - 💬 Ask me about **BIM**
 - 📫 How to reach me **krkmaz.onur@gmail.com**
 - 📄 Know about my experiences [Resume](https://www.korkmazonur.com/about-1)
-
+</p>
 
 
 <h3 align="left">Connect with me:</h3>
