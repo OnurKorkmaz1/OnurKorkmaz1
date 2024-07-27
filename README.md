@@ -5,14 +5,14 @@
 <!--Start Intro-->
 
 <p>
-<p align="left">I am a BIM Software Developer and Machine Learning Enthusiast with a huge love for Python and Data Visualization. </p>
-- ✫ I have a big interest in Python for Revit API.
-- 🌱 I’m currently learning **IFC.JS and Three.JS**
-- ✍ I write technical blogs, You can visit my blog site at [DEV]((https://www.korkmazonur.com/)).
-- 🔗 I'm seeking for opportunities to work with others on innovative projects that improve productivity in the AEC sector.
-- 💬 Ask me about **BIM**
-- 📫 How to reach me **krkmaz.onur@gmail.com**
-- 📄 Know about my experiences [Resume](https://www.korkmazonur.com/about-1)
+align="left">I am a BIM Software Developer and Machine Learning Enthusiast with a huge love for Python and Data Visualization.
+✫ I have a big interest in Python for Revit API.
+🌱 I’m currently learning **IFC.JS and Three.JS**
+✍ I write technical blogs, You can visit my blog site at [DEV]((https://www.korkmazonur.com/)).
+🔗 I'm seeking for opportunities to work with others on innovative projects that improve productivity in the AEC sector.
+💬 Ask me about **BIM**
+📫 How to reach me **krkmaz.onur@gmail.com**
+📄 Know about my experiences [Resume](https://www.korkmazonur.com/about-1)
 </p>
 
 
