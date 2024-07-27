@@ -13,13 +13,13 @@ I'm have recently completed my Level 5 Diploma in Web Application Development wi
 
 When I'm not coding, I can be found either reading 📚 (I'm a member of Bully Book Club, an instagram book club for people who love reading & Bulldogs!), sewing (I'm 11 years into handsewing a quilt using 1 inch hexagons, hoping to be finished in time to enjoy when I retire! 😂)and spending time with my family 👨‍👩‍👦.
 
--✫ I have a big interest in Python for Revit API.
--🌱 I’m currently learning **IFC.JS and Three.JS**
--✍ I write technical blogs, You can visit my blog site at [DEV]((https://www.korkmazonur.com/)).
--🔗 I'm seeking for opportunities to work with others on innovative projects that improve productivity in the AEC sector.
--💬 Ask me about **BIM**
--📫 How to reach me **krkmaz.onur@gmail.com**
--📄 Know about my experiences [Resume](https://www.korkmazonur.com/about-1)
+- ✫ I have a big interest in Python for Revit API.
+- 🌱 I’m currently learning **IFC.JS and Three.JS**
+- ✍ I write technical blogs, You can visit my blog site at [DEV]((https://www.korkmazonur.com/)).
+- 🔗 I'm seeking for opportunities to work with others on innovative projects that improve productivity in the AEC sector.
+- 💬 Ask me about **BIM**
+- 📫 How to reach me **krkmaz.onur@gmail.com**
+- 📄 Know about my experiences [Resume](https://www.korkmazonur.com/about-1)
 
 - - -
 
