@@ -4,8 +4,6 @@
 <!--Start Intro-->
 # ONUR KORKMAZ
 
-Hi there I'm Onur, a BIM Software Developer and Machine Learning Enthusiast with a huge love for Python and Data Visualization. 👋🏻
-
 As a BIM Developer, I am dedicated to developing tools and solutions that improve productivity and eliminate errors in project workflows. My experience and knowledge allow me to make a substantial contribution to any project team, and I am passionate about using technology to better the construction industry.
 
 - ✫ I have a big interest in Python for Revit API.
