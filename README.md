@@ -5,9 +5,8 @@
 <!--Start Intro-->
 
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+ <img align="right" width="350" src="programmer.gif" alt="Coding gif" />
   
- 
 
 - ✫ I have a big interest in Python for Revit API.
 - 🌱 I’m currently learning **IFC.JS and Three.JS**
