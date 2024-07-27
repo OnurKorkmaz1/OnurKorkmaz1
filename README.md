@@ -9,9 +9,7 @@
 
 Hi there I'm Onur, a BIM Software Developer and Machine Learning Enthusiast with a huge love for Python and Data Visualization. 👋🏻
 
-I'm have recently completed my Level 5 Diploma in Web Application Development with South Devon College and the Code Institute, achieving a Distinction.
-
-When I'm not coding, I can be found either reading 📚 (I'm a member of Bully Book Club, an instagram book club for people who love reading & Bulldogs!), sewing (I'm 11 years into handsewing a quilt using 1 inch hexagons, hoping to be finished in time to enjoy when I retire! 😂)and spending time with my family 👨‍👩‍👦.
+As a BIM Developer, I am dedicated to developing tools and solutions that improve productivity and eliminate errors in project workflows. My experience and knowledge allow me to make a substantial contribution to any project team, and I am passionate about using technology to better the construction industry.
 
 - ✫ I have a big interest in Python for Revit API.
 - 🌱 I’m currently learning **IFC.JS and Three.JS**
@@ -22,11 +20,6 @@ When I'm not coding, I can be found either reading 📚 (I'm a member of Bully B
 - 📄 Know about my experiences [Resume](https://www.korkmazonur.com/about-1)
 
 - - -
-
-
-
-
-
 
 
 
