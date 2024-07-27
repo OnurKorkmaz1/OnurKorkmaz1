@@ -14,7 +14,7 @@ As a BIM Developer, I am dedicated to developing tools and solutions that improv
 - 📫 How to reach me **krkmaz.onur@gmail.com**
 - 📄 Know about my experiences [Resume](https://www.korkmazonur.com/about-1)
 
-- - -
+
 
 
 
@@ -28,7 +28,6 @@ As a BIM Developer, I am dedicated to developing tools and solutions that improv
 </a>
 </div>  
 
----
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -40,6 +39,34 @@ As a BIM Developer, I am dedicated to developing tools and solutions that improv
 <br />
 
 
+
+### My Tech Stack
+
+#### 👩🏻‍🏫 I'm Currently Learning
+
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+#### < > Programming Languages
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+#### 🗃 Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+
+
+
+
+
 #### 📰 My Latest Projects
 
 <!-- BLOG-POST-LIST:START -->
@@ -47,8 +74,6 @@ As a BIM Developer, I am dedicated to developing tools and solutions that improv
 - [Automated Views, Dimensions and Sheets](https://onurkorkmaz.framer.website/projects/smart-views-tool-automated-views-dimensions-and-sheets)
 - [Managing Revit Events: Guardian for Revit Projects](https://onurkorkmaz.framer.website/projects/managing-revit-events-guardian-for-revit-projects)
 <!-- BLOG-POST-LIST:END -->
-
-- - -
 
 
 
