@@ -1,12 +1,12 @@
 
 ![Image Alt text](OnurKorkmaz.png)
 
-<!--Header Name-->
-*BIM Software Developer*
-<br /> 
 
-<!--Start Intro-->               
-<p align="left">I am a BIM Software Developer and Machine Learning Enthusiast with a huge love for Python and Data Visualization. </p>
+<!--Start Intro-->   
+<p>
+ <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+  
+ <p align="left">I am a BIM Software Developer and Machine Learning Enthusiast with a huge love for Python and Data Visualization. </p>
 
 - ✫ I have a big interest in Python for Revit API.
 - 🌱 I’m currently learning **IFC.JS and Three.JS**
@@ -15,6 +15,7 @@
 - 💬 Ask me about **BIM**
 - 📫 How to reach me **krkmaz.onur@gmail.com**
 - 📄 Know about my experiences [Resume](https://www.korkmazonur.com/about-1)
+
 
 
 <h3 align="left">Connect with me:</h3>
