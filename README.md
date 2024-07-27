@@ -41,10 +41,10 @@ As a BIM Developer, I am dedicated to developing tools and solutions that improv
 #### 📰 My Latest Projects
 
 <!-- BLOG-POST-LIST:START -->
-- [Revit: Web View Browser]([https://www.codu.co/articles/linkedin-profile-recommendations-9qedqbja](https://onurkorkmaz.framer.website/projects/revit-web-view-browser))
-- [Automated Views, Dimensions and Sheets]([https://www.codu.co/articles/linkedin-profile-projects-n6uqd_6j](https://onurkorkmaz.framer.website/projects/smart-views-tool-automated-views-dimensions-and-sheets))
-- [Managing Revit Events: Guardian for Revit Projects]([https://www.codu.co/articles/podcasts-for-django-developers-gxfqranh](https://onurkorkmaz.framer.website/projects/managing-revit-events-guardian-for-revit-projects))
-
+- [Revit: Web View Browser](https://onurkorkmaz.framer.website/projects/revit-web-view-browser)
+- [Automated Views, Dimensions and Sheets](https://onurkorkmaz.framer.website/projects/smart-views-tool-automated-views-dimensions-and-sheets)
+- [Managing Revit Events: Guardian for Revit Projects](https://onurkorkmaz.framer.website/projects/managing-revit-events-guardian-for-revit-projects)
+<!-- BLOG-POST-LIST:END -->
 
 - - -
 
