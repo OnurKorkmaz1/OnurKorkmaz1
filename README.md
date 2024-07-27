@@ -16,25 +16,13 @@ As a BIM Developer, I am dedicated to developing tools and solutions that improv
 
 
 
-
-
-
-<h3 align="left">Connect with me:</h3>
-<a href="https://github.com/OnurKorkmaz1" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/korkmazonur1/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-</div>  
-
-
 - - - 
+
 
 ### 🔗 Connect with me:
 <!-- style=flat-square& -->
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?logo=Gmail&logoColor=white&link=mailto:krkmaz.onur@gmail.com)](mailto:krkmaz.onur@gmail.com)
-[![WEBSITE](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white=mailto:krkmaz.onur@gmail.com)](mailto:krkmaz.onur@gmail.com)
+[![WEBSITE](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://onurkorkmaz.framer.website/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/korkmazonur1/)](https://www.linkedin.com/in/korkmazonur1/)
 
 ### 👩🏻‍🏫 I'm Currently Learning
