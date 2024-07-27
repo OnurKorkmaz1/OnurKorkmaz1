@@ -29,6 +29,8 @@ As a BIM Developer, I am dedicated to developing tools and solutions that improv
 </div>  
 
 
+- - - 
+
 <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 #### 👩🏻‍🏫 I'm Currently Learning
