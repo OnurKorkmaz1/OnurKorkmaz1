@@ -12,8 +12,6 @@ As a BIM Software Developer, I am dedicated to developing tools and solutions th
 - 💬 Ask me about **BIM**
 
 
-- - - 
-
 
 ### 🔗 Connect with me:
 <!-- style=flat-square& -->
