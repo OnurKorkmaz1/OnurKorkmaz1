@@ -33,7 +33,7 @@ As a BIM Developer, I am dedicated to developing tools and solutions that improv
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,html,css,html,css,vscode,github,figma,git,r" />
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,html,css,vscode,github,figma,git,r" />
     <img src="https://skillicons.dev/icons?i=js,cs,threejs,react,sklearn,sqlite,mysql" /><br>
 </div>
 
